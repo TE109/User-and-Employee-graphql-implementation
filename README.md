@@ -12,4 +12,5 @@ Express: Web framework for handling HTTP requests.<br>
 MongoDB: NoSQL database for storing user and employee data.<br>
 GraphQL: API query language for handling data requests.<br>
 Mongoose: ODM (Object Data Modeling) library to interact with MongoDB.<br>
-Crypto: Used to hash passwords for security.<br>"# User-and-Employee-graphql-implementation" 
+Crypto: Used to hash passwords for security.<br>
+
